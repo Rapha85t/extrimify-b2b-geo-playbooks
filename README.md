@@ -16,7 +16,9 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [תעדוף תקציב שיווק B2B: איך לזהות צווארי בקבוק לפני הגדלת הוצאות מדיה](https://extrimify.com/blog/marketing-budget-priorities-b2b-growth) — [Markdown playbook](./playbooks/he/marketing-budget-priorities-b2b-growth.md)
 - [איך לבצע ניתוח פערים מול מתחרים לפני קמפיין B2B](https://extrimify.com/blog/competitor-gap-analysis-before-campaigns) — [Markdown playbook](./playbooks/he/competitor-gap-analysis-before-campaigns.md)
 - [מדדי שיווק B2B הקריטיים ל-90 הימים הראשונים](https://extrimify.com/blog/first-90-days-b2b-marketing-kpis) — [Markdown playbook](./playbooks/he/first-90-days-b2b-marketing-kpis.md)
+- [למה קמפיינים ממומנים נכשלים בלי מיצוב אסטרטגי והצעת ערך חדה](https://extrimify.com/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/he/why-paid-campaigns-fail-without-positioning.md)
 - [איך למקד מנכ״לים ומקבלי החלטות בלינקדאין בישראל ובחו״ל](https://extrimify.com/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/he/linkedin-b2b-decision-maker-targeting-israel.md)
+- [תוכן מוביל-מייסדים בלינקדאין: ממומחיות מקצועית ללידים עסקיים](https://extrimify.com/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/he/founder-led-linkedin-content-that-drives-pipeline.md)
 
 ## English (EN)
 
@@ -27,7 +29,9 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Prioritizing B2B Marketing Budget: Identifying Bottlenecks Before Scaling Ad Spend](https://extrimify.com/en/blog/marketing-budget-priorities-b2b-growth) — [Markdown playbook](./playbooks/en/marketing-budget-priorities-b2b-growth.md)
 - [How to Run a Competitor Gap Analysis Before B2B Campaigns](https://extrimify.com/en/blog/competitor-gap-analysis-before-campaigns) — [Markdown playbook](./playbooks/en/competitor-gap-analysis-before-campaigns.md)
 - [Critical B2B Marketing KPIs for the First 90 Days](https://extrimify.com/en/blog/first-90-days-b2b-marketing-kpis) — [Markdown playbook](./playbooks/en/first-90-days-b2b-marketing-kpis.md)
+- [Why Paid B2B Campaigns Fail Without Clear Positioning and Value Proposition](https://extrimify.com/en/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/en/why-paid-campaigns-fail-without-positioning.md)
 - [How to Target B2B Decision-Makers on LinkedIn in Israel and Abroad](https://extrimify.com/en/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/en/linkedin-b2b-decision-maker-targeting-israel.md)
+- [Founder-Led LinkedIn Content That Turns Expertise into B2B Pipeline](https://extrimify.com/en/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/en/founder-led-linkedin-content-that-drives-pipeline.md)
 
 ## Spanish (ES)
 
@@ -38,7 +42,9 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Priorizar el presupuesto de marketing B2B: detecta cuellos de botella antes de escalar anuncios](https://extrimify.com/es/blog/marketing-budget-priorities-b2b-growth) — [Markdown playbook](./playbooks/es/marketing-budget-priorities-b2b-growth.md)
 - [Cómo hacer un análisis de brechas frente a competidores antes de campañas B2B](https://extrimify.com/es/blog/competitor-gap-analysis-before-campaigns) — [Markdown playbook](./playbooks/es/competitor-gap-analysis-before-campaigns.md)
 - [KPIs críticos de marketing B2B en los primeros 90 días](https://extrimify.com/es/blog/first-90-days-b2b-marketing-kpis) — [Markdown playbook](./playbooks/es/first-90-days-b2b-marketing-kpis.md)
+- [Por qué fallan las campañas B2B de pago sin un posicionamiento estratégico claro](https://extrimify.com/es/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/es/why-paid-campaigns-fail-without-positioning.md)
 - [Cómo segmentar a decisores B2B en LinkedIn en Israel y otros mercados](https://extrimify.com/es/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/es/linkedin-b2b-decision-maker-targeting-israel.md)
+- [Contenido de fundadores en LinkedIn para convertir experiencia en pipeline B2B](https://extrimify.com/es/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/es/founder-led-linkedin-content-that-drives-pipeline.md)
 
 ---
 
