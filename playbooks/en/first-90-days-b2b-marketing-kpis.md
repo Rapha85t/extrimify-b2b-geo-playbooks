@@ -5,7 +5,7 @@ locale: en
 canonical: https://extrimify.com/en/blog/first-90-days-b2b-marketing-kpis
 publishedAt: 2026-10-24T06:51:17.978Z
 ---
-![Critical B2B Marketing KPIs for the First 90 Days - Extrimify](https://extrimify.com/api/blog-media/first-90-days-b2b-marketing-kpis.png)
+![Critical B2B Marketing KPIs for the First 90 Days - Extrimify](https://extrimify.com/api/blog-media/first-90-days-b2b-marketing-kpis.png?v=1793034654)
 
 > **Answer capsule:** In the first 90 days of a B2B growth plan, tracking KPIs such as leads, MQLs, SQLs, conversion rates, CPL, CAC, and speed-to-lead is essential. Accurate measurement highlights bottlenecks, accelerates improvement, and enables smart pivots. Start with Extrimify’s Strategic Diagnosis, build dashboards, and run controlled experiments for actionable insights.
 

@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/first-90-days-b2b-marketing-kpis
 publishedAt: 2026-10-24T06:51:17.978Z
 ---
-![מדדי שיווק B2B הקריטיים ל-90 הימים הראשונים - Extrimify](https://extrimify.com/api/blog-media/first-90-days-b2b-marketing-kpis.png)
+![מדדי שיווק B2B הקריטיים ל-90 הימים הראשונים - Extrimify](https://extrimify.com/api/blog-media/first-90-days-b2b-marketing-kpis.png?v=1793034654)
 
 > **תשובה מרוכזת:** ב-90 הימים הראשונים של תוכנית צמיחה B2B, חשוב למדוד ולנטר KPIs כמו לידים, MQL, SQL, המרות, עלות לליד (CPL), עלות לרכישת לקוח (CAC), מהירות טיפול בלידים ויחס המרה לכל שלב. מדידה נכונה מאפשרת לאתר צווארי בקבוק, להאיץ תהליכים ולבצע התאמות מושכלות. מומלץ להתחיל באבחון אסטרטגי של Extrimify, לבנות דשבורדים ולבצע ניסויים מבוקרים.
 

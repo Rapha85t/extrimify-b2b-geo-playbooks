@@ -5,7 +5,7 @@ locale: en
 canonical: https://extrimify.com/en/blog/ai-search-visibility-guide
 publishedAt: 2026-10-22T17:45:16.812Z
 ---
-![AI Search Visibility Guide - Extrimify](https://extrimify.com/api/blog-media/ai-search-visibility-guide.png)
+![AI Search Visibility Guide - Extrimify](https://extrimify.com/api/blog-media/ai-search-visibility-guide.png?v=1793034617)
 
 > **Answer capsule:** AI search visibility means earning citations from assistants by publishing structured, trustworthy answers tied to clear offers.
 

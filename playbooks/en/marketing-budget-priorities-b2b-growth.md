@@ -5,7 +5,7 @@ locale: en
 canonical: https://extrimify.com/en/blog/marketing-budget-priorities-b2b-growth
 publishedAt: 2026-10-22T21:51:08.215Z
 ---
-![Prioritizing B2B Marketing Budget: Identifying Bottlenecks Before Scaling Ad Spend - Extrimify](https://extrimify.com/api/blog-media/marketing-budget-priorities-b2b-growth.png)
+![Prioritizing B2B Marketing Budget: Identifying Bottlenecks Before Scaling Ad Spend - Extrimify](https://extrimify.com/api/blog-media/marketing-budget-priorities-b2b-growth.png?v=1793034642)
 
 > **Answer capsule:** Before increasing your B2B marketing budget, conduct a strategic diagnosis to pinpoint where leads or customers are dropping off. Budget prioritization should be based on business metrics and bottleneck analysis, not just lead volume. Extrimify recommends combining a strategic diagnosis (2–4 weeks) with focused BOOST improvements (4–8 weeks) for effective growth.
 

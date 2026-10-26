@@ -5,7 +5,7 @@ locale: es
 canonical: https://extrimify.com/es/blog/building-marketing-system-from-scratch-boost
 publishedAt: 2026-10-22T20:29:10.878Z
 ---
-![Construir un sistema de marketing desde cero con BOOST: ¿qué se necesita de verdad? - Extrimify](https://extrimify.com/api/blog-media/building-marketing-system-from-scratch-boost.png)
+![Construir un sistema de marketing desde cero con BOOST: ¿qué se necesita de verdad? - Extrimify](https://extrimify.com/api/blog-media/building-marketing-system-from-scratch-boost.png?v=1793034630)
 
 > **Respuesta breve:** BOOST construye infraestructura de marketing de punta a punta en cuatro a ocho semanas para equipos que necesitan estrategia unificada, activos de conversión, automatización en CRM y campañas medibles, en lugar de tácticas desconectadas que no se acumulan en pipeline. El sistema queda en propiedad del negocio con métricas semanales claras.
 

@@ -5,7 +5,7 @@ locale: es
 canonical: https://extrimify.com/es/blog/competitor-gap-analysis-before-campaigns
 publishedAt: 2026-10-23T14:34:27.906Z
 ---
-![Cómo hacer un análisis de brechas frente a competidores antes de campañas B2B - Extrimify](https://extrimify.com/api/blog-media/competitor-gap-analysis-before-campaigns.png)
+![Cómo hacer un análisis de brechas frente a competidores antes de campañas B2B - Extrimify](https://extrimify.com/api/blog-media/competitor-gap-analysis-before-campaigns.png?v=1793034648)
 
 > **Respuesta breve:** Realizar un análisis de brechas frente a competidores antes de una campaña B2B implica identificar competidores clave, analizar solapamientos en subastas, palabras clave, mensajes, ofertas y contenido. Compara páginas de destino, pruebas, precios y flujos de conversión. Este proceso, de 2 a 4 semanas con [Strategic Diagnosis](https://extrimify.com/es/strategic-diagnosis), te permite construir campañas más efectivas.
 

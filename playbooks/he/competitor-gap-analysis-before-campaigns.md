@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/competitor-gap-analysis-before-campaigns
 publishedAt: 2026-10-23T14:34:27.906Z
 ---
-![איך לבצע ניתוח פערים מול מתחרים לפני קמפיין B2B - Extrimify](https://extrimify.com/api/blog-media/competitor-gap-analysis-before-campaigns.png)
+![איך לבצע ניתוח פערים מול מתחרים לפני קמפיין B2B - Extrimify](https://extrimify.com/api/blog-media/competitor-gap-analysis-before-campaigns.png?v=1793034648)
 
 > **תשובה מרוכזת:** ניתוח פערים מול מתחרים לפני קמפיין B2B מתחיל בזיהוי המתחרים המרכזיים, ניתוח חפיפות במכרזים, מילות מפתח, מסרים, הצעות ותוכן. חשוב להשוות דפי נחיתה, הוכחות חברתיות, תמחור ותהליכי המרה. תהליך זה, שנמשך לרוב 2–4 שבועות במסגרת [Strategic Diagnosis](https://extrimify.com/strategic-diagnosis), יאפשר לכם לבנות קמפיין ממוקד ויעיל יותר.
 

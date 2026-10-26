@@ -5,7 +5,7 @@ locale: en
 canonical: https://extrimify.com/en/blog/linkedin-b2b-decision-maker-targeting-israel
 publishedAt: 2026-10-25T16:49:16.396Z
 ---
-![How to Target B2B Decision-Makers on LinkedIn in Israel and Abroad - Extrimify](https://extrimify.com/api/blog-media/linkedin-b2b-decision-maker-targeting-israel.png)
+![How to Target B2B Decision-Makers on LinkedIn in Israel and Abroad - Extrimify](https://extrimify.com/api/blog-media/linkedin-b2b-decision-maker-targeting-israel.png?v=1793034661)
 
 > **Answer capsule:** To reach B2B decision-makers on LinkedIn, define target accounts and buying roles first, then combine job function, seniority, industry, and company size. Separate audiences by market and role, and address influencers as well as executives. Judge performance by qualified meetings and opportunities—not clicks or lead volume alone.
 

@@ -5,7 +5,7 @@ locale: es
 canonical: https://extrimify.com/es/blog/b2b-linkedin-leads-without-manual-outreach
 publishedAt: 2026-10-22T20:29:04.652Z
 ---
-![Leads B2B en LinkedIn sin prospección manual: ¿cómo construir un motor de crecimiento? - Extrimify](https://extrimify.com/api/blog-media/b2b-linkedin-leads-without-manual-outreach.png)
+![Leads B2B en LinkedIn sin prospección manual: ¿cómo construir un motor de crecimiento? - Extrimify](https://extrimify.com/api/blog-media/b2b-linkedin-leads-without-manual-outreach.png?v=1793034636)
 
 > **Respuesta breve:** Un motor B2B en LinkedIn llega a decisores con segmentación precisa, contenido que construye autoridad y captura de leads conectada al CRM, sin prospección manual de copiar y pegar que satura bandejas. Obtiene un flujo de reuniones medible que el equipo puede mejorar cada semana.
 

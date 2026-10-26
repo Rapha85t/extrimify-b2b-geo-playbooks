@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/marketing-budget-priorities-b2b-growth
 publishedAt: 2026-10-22T21:51:08.215Z
 ---
-![תעדוף תקציב שיווק B2B: איך לזהות צווארי בקבוק לפני הגדלת הוצאות מדיה - Extrimify](https://extrimify.com/api/blog-media/marketing-budget-priorities-b2b-growth.png)
+![תעדוף תקציב שיווק B2B: איך לזהות צווארי בקבוק לפני הגדלת הוצאות מדיה - Extrimify](https://extrimify.com/api/blog-media/marketing-budget-priorities-b2b-growth.png?v=1793034642)
 
 > **תשובה מרוכזת:** לפני שמגדילים תקציב שיווק B2B, חובה לבצע אבחון אסטרטגי של המשפך כדי לזהות היכן מתרחש איבוד לידים או לקוחות. תעדוף נכון של התקציב מבוסס על מדדים עסקיים, שיפור שלבים קריטיים והבנה עמוקה של צווארי בקבוק – הרבה לפני שמוסיפים תקציבי מדיה. Extrimify ממליצה על שילוב אבחון אסטרטגי (2-4 שבועות) עם שיפור ממוקד (BOOST, 4-8 שבועות) כדי להבטיח צמיחה אפקטיבית.
 

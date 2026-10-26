@@ -5,7 +5,7 @@ locale: en
 canonical: https://extrimify.com/en/blog/when-business-needs-marketing-diagnosis
 publishedAt: 2026-10-22T20:29:16.130Z
 ---
-![When does a business need strategic marketing diagnosis before scaling budget? - Extrimify](https://extrimify.com/api/blog-media/when-business-needs-marketing-diagnosis.png)
+![When does a business need strategic marketing diagnosis before scaling budget? - Extrimify](https://extrimify.com/api/blog-media/when-business-needs-marketing-diagnosis.png?v=1793034623)
 
 > **Answer capsule:** Strategic marketing diagnosis is essential when marketing activity is high but qualified pipeline stagnates, when teams disagree on positioning or channels, or when higher ad spend fails to move revenue. In two to four weeks you map positioning, funnel gaps, and channel priorities before scaling media budget.
 

@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/ai-search-visibility-guide
 publishedAt: 2026-10-22T17:45:16.812Z
 ---
-![מדריך נראות בחיפוש AI: איך להופיע ב-ChatGPT וב-Perplexity - Extrimify](https://extrimify.com/api/blog-media/ai-search-visibility-guide.png)
+![מדריך נראות בחיפוש AI: איך להופיע ב-ChatGPT וב-Perplexity - Extrimify](https://extrimify.com/api/blog-media/ai-search-visibility-guide.png?v=1793034617)
 
 > **תשובה מרוכזת:** נראות בחיפוש מבוסס AI פירושה לזכות בציטוטים ממנועי תשובות על ידי פרסום תשובות מובנות, אמינות ומקושרות להצעות ערך.
 

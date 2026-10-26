@@ -5,7 +5,7 @@ locale: es
 canonical: https://extrimify.com/es/blog/when-business-needs-marketing-diagnosis
 publishedAt: 2026-10-22T20:29:16.130Z
 ---
-![¿Cuándo un negocio necesita diagnóstico estratégico de marketing antes de subir presupuesto? - Extrimify](https://extrimify.com/api/blog-media/when-business-needs-marketing-diagnosis.png)
+![¿Cuándo un negocio necesita diagnóstico estratégico de marketing antes de subir presupuesto? - Extrimify](https://extrimify.com/api/blog-media/when-business-needs-marketing-diagnosis.png?v=1793034623)
 
 > **Respuesta breve:** El diagnóstico estratégico de marketing es clave cuando hay mucha actividad pero la pipeline cualificada no avanza, cuando marketing y ventas no comparten posicionamiento o canales, o cuando subir inversión en anuncios no mueve ingresos. En dos a cuatro semanas se mapean posicionamiento, brechas del embudo y prioridades de canal antes de escalar medios.
 
