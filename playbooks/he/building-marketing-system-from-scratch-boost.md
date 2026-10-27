@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/building-marketing-system-from-scratch-boost
 publishedAt: 2026-10-22T20:29:10.878Z
 ---
-![בניית מערכת שיווק מאפס עם חבילת BOOST: מה באמת נדרש? - Extrimify](https://extrimify.com/api/blog-media/building-marketing-system-from-scratch-boost.png?v=1793034630)
+![בניית מערכת שיווק מאפס עם חבילת BOOST: מה באמת נדרש? - Extrimify](https://extrimify.com/api/blog-media/building-marketing-system-from-scratch-boost-hero-he.png?v=1793103463)
 
 > **תשובה מרוכזת:** חבילת BOOST בונה תשתית שיווק מקצה לקצה ב-4 עד 8 שבועות לעסקים שצריכים אסטרטגיה אחידה, נכסי המרה, אוטומציה ב-CRM וקמפיינים מדידים - במקום טקטיקות מפוזרות שלא מצטברות ל-pipeline. כך הפעילות נשארת בבעלות העסק עם מדדים שבועיים ברורים.
 

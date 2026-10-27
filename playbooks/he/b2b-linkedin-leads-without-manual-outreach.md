@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/b2b-linkedin-leads-without-manual-outreach
 publishedAt: 2026-10-22T20:29:04.652Z
 ---
-![לידים B2B בלינקדאין בלי פנייה ידנית: איך בונים מנוע צמיחה? - Extrimify](https://extrimify.com/api/blog-media/b2b-linkedin-leads-without-manual-outreach.png?v=1793034636)
+![לידים B2B בלינקדאין בלי פנייה ידנית: איך בונים מנוע צמיחה? - Extrimify](https://extrimify.com/api/blog-media/b2b-linkedin-leads-without-manual-outreach-hero-he.png?v=1793103456)
 
 > **תשובה מרוכזת:** מנוע צמיחה B2B בלינקדאין מגיע למקבלי החלטות באמצעות מיקוד קהל מדויק, תוכן שבונה סמכות ולכידת לידים מחוברת ל-CRM - בלי outreach ידני של העתק-הדבק שמוצף הודעות. כך נוצרת זרימת פגישות איכותיות שהצוות יכול למדוד ולשפר שבוע אחר שבוע.
 

@@ -5,7 +5,7 @@ locale: en
 canonical: https://extrimify.com/en/blog/building-marketing-system-from-scratch-boost
 publishedAt: 2026-10-22T20:29:10.878Z
 ---
-![Building a marketing system from scratch with BOOST: what does it really take? - Extrimify](https://extrimify.com/api/blog-media/building-marketing-system-from-scratch-boost.png?v=1793034630)
+![Building a marketing system from scratch with BOOST: what does it really take? - Extrimify](https://extrimify.com/api/blog-media/building-marketing-system-from-scratch-boost-hero-en.png?v=1793103463)
 
 > **Answer capsule:** BOOST builds end-to-end marketing infrastructure in four to eight weeks for businesses that need unified strategy, conversion assets, CRM automation, and measurable campaigns instead of disconnected tactics that never compound into pipeline. You keep ownership of the system with clear weekly metrics.
 

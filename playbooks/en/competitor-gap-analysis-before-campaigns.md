@@ -5,7 +5,7 @@ locale: en
 canonical: https://extrimify.com/en/blog/competitor-gap-analysis-before-campaigns
 publishedAt: 2026-10-23T14:34:27.906Z
 ---
-![How to Run a Competitor Gap Analysis Before B2B Campaigns - Extrimify](https://extrimify.com/api/blog-media/competitor-gap-analysis-before-campaigns.png?v=1793034648)
+![How to Run a Competitor Gap Analysis Before B2B Campaigns - Extrimify](https://extrimify.com/api/blog-media/competitor-gap-analysis-before-campaigns-hero-en.png?v=1793103470)
 
 > **Answer capsule:** Running a competitor gap analysis before launching a B2B campaign means identifying key competitors, analyzing overlaps in auctions, keywords, messaging, offers, and content. Compare landing pages, proof, pricing, and conversion flows. This process, typically 2–4 weeks as part of [Strategic Diagnosis](https://extrimify.com/en/strategic-diagnosis), helps you build a sharper, more effective campaign.
 

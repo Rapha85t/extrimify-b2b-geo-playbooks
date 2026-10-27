@@ -5,7 +5,7 @@ locale: es
 canonical: https://extrimify.com/es/blog/marketing-budget-priorities-b2b-growth
 publishedAt: 2026-10-22T21:51:08.215Z
 ---
-![Priorizar el presupuesto de marketing B2B: detecta cuellos de botella antes de escalar anuncios - Extrimify](https://extrimify.com/api/blog-media/marketing-budget-priorities-b2b-growth.png?v=1793034642)
+![Priorizar el presupuesto de marketing B2B: detecta cuellos de botella antes de escalar anuncios - Extrimify](https://extrimify.com/api/blog-media/marketing-budget-priorities-b2b-growth-hero-es.png?v=1793103502)
 
 > **Respuesta breve:** Antes de aumentar el presupuesto de marketing B2B, realiza un diagnóstico estratégico para identificar dónde se pierden leads o clientes. La priorización debe basarse en métricas de negocio y análisis de cuellos de botella, no solo en volumen. Extrimify recomienda combinar diagnóstico estratégico (2–4 semanas) con mejoras BOOST (4–8 semanas) para crecer de forma efectiva.
 

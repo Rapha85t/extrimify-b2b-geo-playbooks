@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/linkedin-b2b-decision-maker-targeting-israel
 publishedAt: 2026-10-25T16:49:16.396Z
 ---
-![איך למקד מנכ״לים ומקבלי החלטות בלינקדאין בישראל ובחו״ל - Extrimify](https://extrimify.com/api/blog-media/linkedin-b2b-decision-maker-targeting-israel.png?v=1793034661)
+![איך למקד מנכ״לים ומקבלי החלטות בלינקדאין בישראל ובחו״ל - Extrimify](https://extrimify.com/api/blog-media/linkedin-b2b-decision-maker-targeting-israel-hero-he.png?v=1793103487)
 
 > **תשובה מרוכזת:** כדי להגיע למקבלי החלטות ב־LinkedIn, הגדירו תחילה חברות יעד ופרופיל קנייה, ואז שלבו תפקיד, תחום אחריות, דרג, ענף וגודל חברה. בנו קהלים נפרדים לפי שוק ותפקיד, ודברו גם עם המשפיעים בתהליך. מדדו פגישות והזדמנויות איכותיות, לא רק קליקים או לידים.
 

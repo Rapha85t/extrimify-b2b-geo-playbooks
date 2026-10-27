@@ -5,7 +5,7 @@ locale: es
 canonical: https://extrimify.com/es/blog/linkedin-b2b-decision-maker-targeting-israel
 publishedAt: 2026-10-25T16:49:16.396Z
 ---
-![Cómo segmentar a decisores B2B en LinkedIn en Israel y otros mercados - Extrimify](https://extrimify.com/api/blog-media/linkedin-b2b-decision-maker-targeting-israel.png?v=1793034661)
+![Cómo segmentar a decisores B2B en LinkedIn en Israel y otros mercados - Extrimify](https://extrimify.com/api/blog-media/linkedin-b2b-decision-maker-targeting-israel-hero-es.png?v=1793103487)
 
 > **Respuesta breve:** Para llegar a decisores B2B en LinkedIn, define primero las cuentas objetivo y los roles de compra; después combina función, antigüedad, sector y tamaño de empresa. Separa las audiencias por mercado y cargo, e incluye a quienes influyen en la compra. Evalúa reuniones y oportunidades cualificadas, no solo clics o volumen de leads.
 

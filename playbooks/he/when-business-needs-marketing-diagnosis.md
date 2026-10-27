@@ -5,7 +5,7 @@ locale: he
 canonical: https://extrimify.com/blog/when-business-needs-marketing-diagnosis
 publishedAt: 2026-10-22T20:29:16.130Z
 ---
-![מתי עסק צריך אבחון שיווקי אסטרטגי לפני הגדלת תקציב? - Extrimify](https://extrimify.com/api/blog-media/when-business-needs-marketing-diagnosis.png?v=1793034623)
+![מתי עסק צריך אבחון שיווקי אסטרטגי לפני הגדלת תקציב? - Extrimify](https://extrimify.com/api/blog-media/when-business-needs-marketing-diagnosis-hero-he.png?v=1793103509)
 
 > **תשובה מרוכזת:** אבחון שיווקי אסטרטגי נכון כשיש פעילות שיווקית אינטנסיבית אבל pipeline מוסמך עומד במקום, כשהצוותים לא מסכימים על מיצוב או ערוצים, או כשהגדלת תקציב מדיה לא מייצרת תוצאות עסקיות. בתוך 2 עד 4 שבועות ממפים מיצוב, פערים במסלול הלקוח וסדר עדיפויות לערוצים - לפני שמגדילים הוצאה.
 
