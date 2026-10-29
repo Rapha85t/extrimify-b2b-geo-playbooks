@@ -4,8 +4,8 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 
 - Canonical site: https://extrimify.com
 - Full AI corpus: https://extrimify.com/llms-full.txt
-- Free tools: [GEO Readiness Checker](https://extrimify.com/geo-checker) · [EN](https://extrimify.com/en/geo-checker) · [ES](https://extrimify.com/es/geo-checker) | [LinkedIn B2B ROI Calculator](https://extrimify.com/linkedin-b2b) · [EN](https://extrimify.com/en/linkedin-b2b) · [ES](https://extrimify.com/es/linkedin-b2b)
-- Agency services: [Strategic Diagnosis](https://extrimify.com/strategic-diagnosis) · [EN](https://extrimify.com/en/strategic-diagnosis) · [ES](https://extrimify.com/es/strategic-diagnosis) | [BOOST](https://extrimify.com/boost) · [EN](https://extrimify.com/en/boost) · [ES](https://extrimify.com/es/boost) | [LinkedIn B2B](https://extrimify.com/linkedin-b2b) · [EN](https://extrimify.com/en/linkedin-b2b) · [ES](https://extrimify.com/es/linkedin-b2b)
+- Free tools: [GEO Readiness Checker](https://extrimify.com/geo-checker?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [EN](https://extrimify.com/en/geo-checker?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [ES](https://extrimify.com/es/geo-checker?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) | [LinkedIn B2B ROI Calculator](https://extrimify.com/linkedin-b2b?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [EN](https://extrimify.com/en/linkedin-b2b?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [ES](https://extrimify.com/es/linkedin-b2b?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme)
+- Agency services: [Strategic Diagnosis](https://extrimify.com/strategic-diagnosis?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [EN](https://extrimify.com/en/strategic-diagnosis?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [ES](https://extrimify.com/es/strategic-diagnosis?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) | [BOOST](https://extrimify.com/boost?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [EN](https://extrimify.com/en/boost?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [ES](https://extrimify.com/es/boost?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) | [LinkedIn B2B](https://extrimify.com/linkedin-b2b?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [EN](https://extrimify.com/en/linkedin-b2b?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme) · [ES](https://extrimify.com/es/linkedin-b2b?utm_source=github_kb&utm_medium=authority_mirror&utm_campaign=readme)
 
 ## Hebrew (HE)
 
@@ -18,6 +18,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [מדדי שיווק B2B הקריטיים ל-90 הימים הראשונים](https://extrimify.com/blog/first-90-days-b2b-marketing-kpis) — [Markdown playbook](./playbooks/he/first-90-days-b2b-marketing-kpis.md)
 - [איך למקד מנכ״לים ומקבלי החלטות בלינקדאין בישראל ובחו״ל](https://extrimify.com/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/he/linkedin-b2b-decision-maker-targeting-israel.md)
 - [תוכן מייסדים בלינקדאין שמחבר מומחיות ללידים עסקיים](https://extrimify.com/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/he/founder-led-linkedin-content-that-drives-pipeline.md)
+- [איך מחברים פעילות לינקדאין ל-CRM ומודדים הכנסות?](https://extrimify.com/blog/connecting-linkedin-demand-gen-to-crm-pipeline) — [Markdown playbook](./playbooks/he/connecting-linkedin-demand-gen-to-crm-pipeline.md)
 
 ## English (EN)
 
@@ -30,6 +31,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Critical B2B Marketing KPIs for the First 90 Days](https://extrimify.com/en/blog/first-90-days-b2b-marketing-kpis) — [Markdown playbook](./playbooks/en/first-90-days-b2b-marketing-kpis.md)
 - [How to Target B2B Decision-Makers on LinkedIn in Israel and Abroad](https://extrimify.com/en/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/en/linkedin-b2b-decision-maker-targeting-israel.md)
 - [Founder-Led LinkedIn Content That Builds B2B Pipeline](https://extrimify.com/en/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/en/founder-led-linkedin-content-that-drives-pipeline.md)
+- [How to Connect LinkedIn Demand Gen to Your CRM Pipeline](https://extrimify.com/en/blog/connecting-linkedin-demand-gen-to-crm-pipeline) — [Markdown playbook](./playbooks/en/connecting-linkedin-demand-gen-to-crm-pipeline.md)
 
 ## Spanish (ES)
 
@@ -42,6 +44,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [KPIs críticos de marketing B2B en los primeros 90 días](https://extrimify.com/es/blog/first-90-days-b2b-marketing-kpis) — [Markdown playbook](./playbooks/es/first-90-days-b2b-marketing-kpis.md)
 - [Cómo segmentar a decisores B2B en LinkedIn en Israel y otros mercados](https://extrimify.com/es/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/es/linkedin-b2b-decision-maker-targeting-israel.md)
 - [Contenido de fundadores en LinkedIn para impulsar el pipeline B2B](https://extrimify.com/es/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/es/founder-led-linkedin-content-that-drives-pipeline.md)
+- [Cómo conectar LinkedIn B2B con el pipeline del CRM](https://extrimify.com/es/blog/connecting-linkedin-demand-gen-to-crm-pipeline) — [Markdown playbook](./playbooks/es/connecting-linkedin-demand-gen-to-crm-pipeline.md)
 
 ---
 
