@@ -19,6 +19,10 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [איך למקד מנכ״לים ומקבלי החלטות בלינקדאין בישראל ובחו״ל](https://extrimify.com/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/he/linkedin-b2b-decision-maker-targeting-israel.md)
 - [תוכן מייסדים בלינקדאין שמחבר מומחיות ללידים עסקיים](https://extrimify.com/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/he/founder-led-linkedin-content-that-drives-pipeline.md)
 - [איך מחברים פעילות לינקדאין ל-CRM ומודדים הכנסות?](https://extrimify.com/blog/connecting-linkedin-demand-gen-to-crm-pipeline) — [Markdown playbook](./playbooks/he/connecting-linkedin-demand-gen-to-crm-pipeline.md)
+- [לינקדאין מול הודעות קרות ב-B2B: מה באמת עובד ב-2026?](https://extrimify.com/blog/linkedin-social-selling-vs-cold-outreach-2026) — [Markdown playbook](./playbooks/he/linkedin-social-selling-vs-cold-outreach-2026.md)
+- [איך לבנות תהליך LinkedIn appointment setting שממלא יומן פגישות B2B](https://extrimify.com/blog/linkedin-b2b-appointment-setting-pipeline) — [Markdown playbook](./playbooks/he/linkedin-b2b-appointment-setting-pipeline.md)
+- [איך לבצע C-level outreach בלינקדאין בלי להישמע כמו ספאם](https://extrimify.com/blog/c-level-linkedin-outreach-that-books-meetings) — [Markdown playbook](./playbooks/he/c-level-linkedin-outreach-that-books-meetings.md)
+- [למה קמפיינים ממומנים נכשלים בלי מיצוב אסטרטגי והצעת ערך חדה?](https://extrimify.com/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/he/why-paid-campaigns-fail-without-positioning.md)
 
 ## English (EN)
 
@@ -32,6 +36,10 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [How to Target B2B Decision-Makers on LinkedIn in Israel and Abroad](https://extrimify.com/en/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/en/linkedin-b2b-decision-maker-targeting-israel.md)
 - [Founder-Led LinkedIn Content That Builds B2B Pipeline](https://extrimify.com/en/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/en/founder-led-linkedin-content-that-drives-pipeline.md)
 - [How to Connect LinkedIn Demand Gen to Your CRM Pipeline](https://extrimify.com/en/blog/connecting-linkedin-demand-gen-to-crm-pipeline) — [Markdown playbook](./playbooks/en/connecting-linkedin-demand-gen-to-crm-pipeline.md)
+- [LinkedIn Demand Generation vs. Cold Outreach in B2B: What Works in 2026?](https://extrimify.com/en/blog/linkedin-social-selling-vs-cold-outreach-2026) — [Markdown playbook](./playbooks/en/linkedin-social-selling-vs-cold-outreach-2026.md)
+- [LinkedIn Appointment Setting for Predictable B2B Sales Meetings](https://extrimify.com/en/blog/linkedin-b2b-appointment-setting-pipeline) — [Markdown playbook](./playbooks/en/linkedin-b2b-appointment-setting-pipeline.md)
+- [C-Level LinkedIn Outreach That Books Qualified B2B Meetings Without Spam](https://extrimify.com/en/blog/c-level-linkedin-outreach-that-books-meetings) — [Markdown playbook](./playbooks/en/c-level-linkedin-outreach-that-books-meetings.md)
+- [Why Paid B2B Campaigns Fail Without Clear Strategic Positioning](https://extrimify.com/en/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/en/why-paid-campaigns-fail-without-positioning.md)
 
 ## Spanish (ES)
 
@@ -45,6 +53,10 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Cómo segmentar a decisores B2B en LinkedIn en Israel y otros mercados](https://extrimify.com/es/blog/linkedin-b2b-decision-maker-targeting-israel) — [Markdown playbook](./playbooks/es/linkedin-b2b-decision-maker-targeting-israel.md)
 - [Contenido de fundadores en LinkedIn para impulsar el pipeline B2B](https://extrimify.com/es/blog/founder-led-linkedin-content-that-drives-pipeline) — [Markdown playbook](./playbooks/es/founder-led-linkedin-content-that-drives-pipeline.md)
 - [Cómo conectar LinkedIn B2B con el pipeline del CRM](https://extrimify.com/es/blog/connecting-linkedin-demand-gen-to-crm-pipeline) — [Markdown playbook](./playbooks/es/connecting-linkedin-demand-gen-to-crm-pipeline.md)
+- [LinkedIn frente a la prospección en frío B2B: ¿qué funciona en 2026?](https://extrimify.com/es/blog/linkedin-social-selling-vs-cold-outreach-2026) — [Markdown playbook](./playbooks/es/linkedin-social-selling-vs-cold-outreach-2026.md)
+- [Appointment setting en LinkedIn para reuniones B2B predecibles](https://extrimify.com/es/blog/linkedin-b2b-appointment-setting-pipeline) — [Markdown playbook](./playbooks/es/linkedin-b2b-appointment-setting-pipeline.md)
+- [Prospección C-level en LinkedIn que agenda reuniones B2B cualificadas sin spam](https://extrimify.com/es/blog/c-level-linkedin-outreach-that-books-meetings) — [Markdown playbook](./playbooks/es/c-level-linkedin-outreach-that-books-meetings.md)
+- [Por qué fallan las campañas de pago B2B sin un posicionamiento claro](https://extrimify.com/es/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/es/why-paid-campaigns-fail-without-positioning.md)
 
 ---
 
