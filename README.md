@@ -23,6 +23,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [איך לבנות תהליך LinkedIn appointment setting שממלא יומן פגישות B2B](https://extrimify.com/blog/linkedin-b2b-appointment-setting-pipeline) — [Markdown playbook](./playbooks/he/linkedin-b2b-appointment-setting-pipeline.md)
 - [איך לבצע C-level outreach בלינקדאין בלי להישמע כמו ספאם](https://extrimify.com/blog/c-level-linkedin-outreach-that-books-meetings) — [Markdown playbook](./playbooks/he/c-level-linkedin-outreach-that-books-meetings.md)
 - [למה קמפיינים ממומנים נכשלים בלי מיצוב אסטרטגי והצעת ערך חדה?](https://extrimify.com/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/he/why-paid-campaigns-fail-without-positioning.md)
+- [בניית תשתית מדידה וייחוס המרות ב-GA4 וב-CRM לעסקי B2B](https://extrimify.com/blog/marketing-attribution-and-ga4-setup-b2b) — [Markdown playbook](./playbooks/he/marketing-attribution-and-ga4-setup-b2b.md)
 
 ## English (EN)
 
@@ -40,6 +41,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [LinkedIn Appointment Setting for Predictable B2B Sales Meetings](https://extrimify.com/en/blog/linkedin-b2b-appointment-setting-pipeline) — [Markdown playbook](./playbooks/en/linkedin-b2b-appointment-setting-pipeline.md)
 - [C-Level LinkedIn Outreach That Books Qualified B2B Meetings Without Spam](https://extrimify.com/en/blog/c-level-linkedin-outreach-that-books-meetings) — [Markdown playbook](./playbooks/en/c-level-linkedin-outreach-that-books-meetings.md)
 - [Why Paid B2B Campaigns Fail Without Clear Strategic Positioning](https://extrimify.com/en/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/en/why-paid-campaigns-fail-without-positioning.md)
+- [Building B2B Marketing Attribution and GA4-to-CRM Tracking](https://extrimify.com/en/blog/marketing-attribution-and-ga4-setup-b2b) — [Markdown playbook](./playbooks/en/marketing-attribution-and-ga4-setup-b2b.md)
 
 ## Spanish (ES)
 
@@ -57,6 +59,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Appointment setting en LinkedIn para reuniones B2B predecibles](https://extrimify.com/es/blog/linkedin-b2b-appointment-setting-pipeline) — [Markdown playbook](./playbooks/es/linkedin-b2b-appointment-setting-pipeline.md)
 - [Prospección C-level en LinkedIn que agenda reuniones B2B cualificadas sin spam](https://extrimify.com/es/blog/c-level-linkedin-outreach-that-books-meetings) — [Markdown playbook](./playbooks/es/c-level-linkedin-outreach-that-books-meetings.md)
 - [Por qué fallan las campañas de pago B2B sin un posicionamiento claro](https://extrimify.com/es/blog/why-paid-campaigns-fail-without-positioning) — [Markdown playbook](./playbooks/es/why-paid-campaigns-fail-without-positioning.md)
+- [Cómo construir atribución B2B y conectar GA4 con el CRM](https://extrimify.com/es/blog/marketing-attribution-and-ga4-setup-b2b) — [Markdown playbook](./playbooks/es/marketing-attribution-and-ga4-setup-b2b.md)
 
 ---
 
