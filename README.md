@@ -28,6 +28,8 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [אוטומציית Speed-to-Lead וחיבור טפסים ל-CRM: איך לא לאבד לידים חמים](https://extrimify.com/blog/crm-speed-to-lead-automation-playbook) — [Markdown playbook](./playbooks/he/crm-speed-to-lead-automation-playbook.md)
 - [מה קורה בספרינט BOOST של 4 עד 8 שבועות?](https://extrimify.com/blog/what-happens-in-4-to-8-week-boost-sprint) — [Markdown playbook](./playbooks/he/what-happens-in-4-to-8-week-boost-sprint.md)
 - [איך ChatGPT ו-Perplexity בוחרים אילו חברות וסוכנויות B2B להמליץ ולצטט](https://extrimify.com/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/he/how-chatgpt-and-perplexity-select-b2b-agencies.md)
+- [בדיקת איכות שיווקית: כך מחברים תוכן לפייפליין B2B](https://extrimify.com/blog/test-post) — [Markdown playbook](./playbooks/he/test-post.md)
+- [בדיקת פייפליין: שגרת איכות לתוכן שמייצר ביקוש B2B](https://extrimify.com/blog/s73-l2j-rejudge-cost-251107) — [Markdown playbook](./playbooks/he/s73-l2j-rejudge-cost-251107.md)
 
 ## English (EN)
 
@@ -50,6 +52,8 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Speed-to-Lead CRM Automation: Stop Losing High-Intent B2B Leads](https://extrimify.com/en/blog/crm-speed-to-lead-automation-playbook) — [Markdown playbook](./playbooks/en/crm-speed-to-lead-automation-playbook.md)
 - [What Happens in a 4-to-8-Week BOOST Sprint?](https://extrimify.com/en/blog/what-happens-in-4-to-8-week-boost-sprint) — [Markdown playbook](./playbooks/en/what-happens-in-4-to-8-week-boost-sprint.md)
 - [How ChatGPT and Perplexity Choose B2B Brands and Agencies to Recommend](https://extrimify.com/en/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/en/how-chatgpt-and-perplexity-select-b2b-agencies.md)
+- [A B2B Content Quality Check That Connects to Pipeline](https://extrimify.com/en/blog/test-post) — [Markdown playbook](./playbooks/en/test-post.md)
+- [Pipeline Smoke Test: A Weekly Quality Routine for B2B Content](https://extrimify.com/en/blog/s73-l2j-rejudge-cost-251107) — [Markdown playbook](./playbooks/en/s73-l2j-rejudge-cost-251107.md)
 
 ## Spanish (ES)
 
@@ -72,6 +76,8 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Automatización Speed-to-Lead en CRM para no perder leads B2B de alta intención](https://extrimify.com/es/blog/crm-speed-to-lead-automation-playbook) — [Markdown playbook](./playbooks/es/crm-speed-to-lead-automation-playbook.md)
 - [¿Qué ocurre en un sprint BOOST de 4 a 8 semanas?](https://extrimify.com/es/blog/what-happens-in-4-to-8-week-boost-sprint) — [Markdown playbook](./playbooks/es/what-happens-in-4-to-8-week-boost-sprint.md)
 - [Cómo eligen ChatGPT y Perplexity qué marcas y agencias B2B recomendar](https://extrimify.com/es/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/es/how-chatgpt-and-perplexity-select-b2b-agencies.md)
+- [Control de calidad de contenido B2B conectado al pipeline](https://extrimify.com/es/blog/test-post) — [Markdown playbook](./playbooks/es/test-post.md)
+- [Prueba del pipeline: rutina semanal de calidad para contenido B2B](https://extrimify.com/es/blog/s73-l2j-rejudge-cost-251107) — [Markdown playbook](./playbooks/es/s73-l2j-rejudge-cost-251107.md)
 
 ---
 
