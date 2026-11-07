@@ -31,6 +31,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [בדיקת איכות שיווקית: כך מחברים תוכן לפייפליין B2B](https://extrimify.com/blog/test-post) — [Markdown playbook](./playbooks/he/test-post.md)
 - [בדיקת פייפליין: שגרת איכות לתוכן שמייצר ביקוש B2B](https://extrimify.com/blog/s73-l2j-rejudge-cost-251107) — [Markdown playbook](./playbooks/he/s73-l2j-rejudge-cost-251107.md)
 - [בדיקת פייפליין: איך בודקים השבוע ששגרת התוכן מייצרת הזדמנויות?](https://extrimify.com/blog/s73-l2k-gemini-real-verdict-251107) — [Markdown playbook](./playbooks/he/s73-l2k-gemini-real-verdict-251107.md)
+- [בדיקת פייפליין: כך בודקים השבוע את שגרת האיכות השיווקית](https://extrimify.com/blog/s73-l2k-gemini-real-verdict2-251107) — [Markdown playbook](./playbooks/he/s73-l2k-gemini-real-verdict2-251107.md)
 
 ## English (EN)
 
@@ -56,6 +57,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [A B2B Content Quality Check That Connects to Pipeline](https://extrimify.com/en/blog/test-post) — [Markdown playbook](./playbooks/en/test-post.md)
 - [Pipeline Smoke Test: A Weekly Quality Routine for B2B Content](https://extrimify.com/en/blog/s73-l2j-rejudge-cost-251107) — [Markdown playbook](./playbooks/en/s73-l2j-rejudge-cost-251107.md)
 - [Pipeline smoke test: Is your content workflow creating opportunities?](https://extrimify.com/en/blog/s73-l2k-gemini-real-verdict-251107) — [Markdown playbook](./playbooks/en/s73-l2k-gemini-real-verdict-251107.md)
+- [A B2B Pipeline Smoke Test You Can Run This Week](https://extrimify.com/en/blog/s73-l2k-gemini-real-verdict2-251107) — [Markdown playbook](./playbooks/en/s73-l2k-gemini-real-verdict2-251107.md)
 
 ## Spanish (ES)
 
@@ -81,6 +83,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Control de calidad de contenido B2B conectado al pipeline](https://extrimify.com/es/blog/test-post) — [Markdown playbook](./playbooks/es/test-post.md)
 - [Prueba del pipeline: rutina semanal de calidad para contenido B2B](https://extrimify.com/es/blog/s73-l2j-rejudge-cost-251107) — [Markdown playbook](./playbooks/es/s73-l2j-rejudge-cost-251107.md)
 - [Prueba rápida del pipeline: ¿el contenido genera oportunidades?](https://extrimify.com/es/blog/s73-l2k-gemini-real-verdict-251107) — [Markdown playbook](./playbooks/es/s73-l2k-gemini-real-verdict-251107.md)
+- [Prueba semanal de pipeline B2B: qué medir y qué ignorar](https://extrimify.com/es/blog/s73-l2k-gemini-real-verdict2-251107) — [Markdown playbook](./playbooks/es/s73-l2k-gemini-real-verdict2-251107.md)
 
 ---
 
