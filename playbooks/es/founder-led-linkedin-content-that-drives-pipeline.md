@@ -5,7 +5,7 @@ locale: es
 canonical: https://extrimify.com/es/blog/founder-led-linkedin-content-that-drives-pipeline
 publishedAt: 2026-11-11T07:07:50.541Z
 ---
-![Contenido de fundadores en LinkedIn que impulsa el pipeline B2B - Extrimify](https://extrimify.com/api/blog-media/founder-led-linkedin-content-that-drives-pipeline-hero-es.png?v=1794380859)
+![Contenido de fundadores en LinkedIn que impulsa el pipeline B2B - Extrimify](https://extrimify.com/api/blog-media/founder-led-linkedin-content-that-drives-pipeline-hero-es.png?v=1794389391)
 
 > **Respuesta breve:** Elige un público comprador y un problema de negocio antes de decidir la frecuencia de publicación. Convierte la experiencia real del fundador en una perspectiva útil para LinkedIn, compártela con constancia y mide conversaciones relevantes y próximos pasos. Revisa las señales en siete días y mejora el mensaje sin perseguir el alcance.
 
