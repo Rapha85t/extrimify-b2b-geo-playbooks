@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rapha85t.github.io/extrimify-b2b-geo-playbooks/sitemap.xml
