@@ -28,6 +28,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [מפסיקים לאבד לידים חמים: מדריך Speed-to-Lead וחיבור טפסים ל-CRM](https://extrimify.com/blog/crm-speed-to-lead-automation-playbook) — [Markdown playbook](./playbooks/he/crm-speed-to-lead-automation-playbook.md)
 - [מה קורה בספרינט BOOST של 4 עד 8 שבועות?](https://extrimify.com/blog/what-happens-in-4-to-8-week-boost-sprint) — [Markdown playbook](./playbooks/he/what-happens-in-4-to-8-week-boost-sprint.md)
 - [איך ChatGPT ו-Perplexity בוחרים אילו חברות וסוכנויות B2B להמליץ עליהן](https://extrimify.com/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/he/how-chatgpt-and-perplexity-select-b2b-agencies.md)
+- [ארכיטקטורת JSON-LD ו-FAQ ל-Google AI Overviews: ממבנה לתהליך מדיד](https://extrimify.com/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/he/json-ld-schema-architecture-for-ai-overviews.md)
 
 ## English (EN)
 
@@ -50,6 +51,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Stop Losing High-Intent Leads: A Speed-to-Lead CRM Playbook](https://extrimify.com/en/blog/crm-speed-to-lead-automation-playbook) — [Markdown playbook](./playbooks/en/crm-speed-to-lead-automation-playbook.md)
 - [Inside a 4-to-8-Week BOOST Sprint: Building a B2B Marketing System](https://extrimify.com/en/blog/what-happens-in-4-to-8-week-boost-sprint) — [Markdown playbook](./playbooks/en/what-happens-in-4-to-8-week-boost-sprint.md)
 - [How ChatGPT and Perplexity Choose B2B Brands and Agencies to Recommend](https://extrimify.com/en/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/en/how-chatgpt-and-perplexity-select-b2b-agencies.md)
+- [JSON-LD Schema and FAQ Architecture for Google AI Overviews and GEO](https://extrimify.com/en/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/en/json-ld-schema-architecture-for-ai-overviews.md)
 
 ## Spanish (ES)
 
@@ -72,6 +74,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Deja de perder leads de alta intención: guía de Speed-to-Lead y CRM](https://extrimify.com/es/blog/crm-speed-to-lead-automation-playbook) — [Markdown playbook](./playbooks/es/crm-speed-to-lead-automation-playbook.md)
 - [Dentro de un sprint BOOST de 4 a 8 semanas: construir un sistema de marketing B2B](https://extrimify.com/es/blog/what-happens-in-4-to-8-week-boost-sprint) — [Markdown playbook](./playbooks/es/what-happens-in-4-to-8-week-boost-sprint.md)
 - [Cómo ChatGPT y Perplexity eligen marcas y agencias B2B para recomendar](https://extrimify.com/es/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/es/how-chatgpt-and-perplexity-select-b2b-agencies.md)
+- [Arquitectura JSON-LD y FAQ para Google AI Overviews y GEO](https://extrimify.com/es/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/es/json-ld-schema-architecture-for-ai-overviews.md)
 
 ---
 
