@@ -5,6 +5,8 @@ locale: es
 canonical: https://extrimify.com/es/blog/test-post
 publishedAt: 2026-10-26T16:32:47.816Z
 ---
+![Smoke fixture - Extrimify](https://extrimify.com/api/blog-media/test-post-hero-es.png?v=1794054058)
+
 ## Smoke fixture
 
 Published **test-post** for gate verification.
@@ -29,12 +31,12 @@ In SQLite blog_translations rows keyed by locale and revision.
 
 ---
 
-*— Articulo completo en Extrimify —*
+*- Articulo completo en Extrimify -*
 
 Lea el articulo original en Extrimify: [https://extrimify.com/es/blog/test-post](https://extrimify.com/es/blog/test-post)
 
 #### Servicios B2B de Extrimify:
 
-- [Diagnostico estrategico de marketing](https://extrimify.com/es/strategic-diagnosis)
-- [Boost - sistema de marketing integral](https://extrimify.com/es/boost)
-- [LinkedIn B2B - prospeccion ejecutiva automatizada](https://extrimify.com/es/linkedin-b2b)
+- [Diagnostico estrategico de marketing](https://extrimify.com/es/strategic-diagnosis?utm_source=authority_mirror&utm_medium=syndication&utm_campaign=blog_test-post&utm_content=es)
+- [Boost - sistema de marketing integral](https://extrimify.com/es/boost?utm_source=authority_mirror&utm_medium=syndication&utm_campaign=blog_test-post&utm_content=es)
+- [LinkedIn B2B - prospeccion ejecutiva automatizada](https://extrimify.com/es/linkedin-b2b?utm_source=authority_mirror&utm_medium=syndication&utm_campaign=blog_test-post&utm_content=es)
