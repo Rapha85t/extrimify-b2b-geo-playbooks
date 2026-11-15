@@ -30,6 +30,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [איך ChatGPT ו-Perplexity בוחרים אילו חברות וסוכנויות B2B להמליץ עליהן](https://extrimify.com/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/he/how-chatgpt-and-perplexity-select-b2b-agencies.md)
 - [ארכיטקטורת JSON-LD ו-FAQ ל-Google AI Overviews: ממבנה לתהליך מדיד](https://extrimify.com/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/he/json-ld-schema-architecture-for-ai-overviews.md)
 - [SEO רב-לשוני ו-GEO: איך לבנות צמיחה B2B בשווקים בינלאומיים](https://extrimify.com/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/he/trilingual-seo-and-geo-architecture-for-global-b2b.md)
+- [איך למדוד לידים ו-ROI מחיפוש AI ותוצאות ללא הקלקה](https://extrimify.com/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/he/measuring-ai-referrers-and-zero-click-search-roi.md)
 
 ## English (EN)
 
@@ -54,6 +55,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [How ChatGPT and Perplexity Choose B2B Brands and Agencies to Recommend](https://extrimify.com/en/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/en/how-chatgpt-and-perplexity-select-b2b-agencies.md)
 - [JSON-LD Schema and FAQ Architecture for Google AI Overviews and GEO](https://extrimify.com/en/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/en/json-ld-schema-architecture-for-ai-overviews.md)
 - [Multilingual SEO and GEO Architecture for B2B Growth](https://extrimify.com/en/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/en/trilingual-seo-and-geo-architecture-for-global-b2b.md)
+- [Measuring B2B Leads and ROI from AI Search](https://extrimify.com/en/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/en/measuring-ai-referrers-and-zero-click-search-roi.md)
 
 ## Spanish (ES)
 
@@ -78,6 +80,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Cómo ChatGPT y Perplexity eligen marcas y agencias B2B para recomendar](https://extrimify.com/es/blog/how-chatgpt-and-perplexity-select-b2b-agencies) — [Markdown playbook](./playbooks/es/how-chatgpt-and-perplexity-select-b2b-agencies.md)
 - [Arquitectura JSON-LD y FAQ para Google AI Overviews y GEO](https://extrimify.com/es/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/es/json-ld-schema-architecture-for-ai-overviews.md)
 - [Arquitectura SEO y GEO multilingüe para crecer en B2B](https://extrimify.com/es/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/es/trilingual-seo-and-geo-architecture-for-global-b2b.md)
+- [Medir leads B2B y ROI de la búsqueda con IA](https://extrimify.com/es/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/es/measuring-ai-referrers-and-zero-click-search-roi.md)
 
 ---
 
