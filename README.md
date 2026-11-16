@@ -31,6 +31,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [ארכיטקטורת JSON-LD ו-FAQ ל-Google AI Overviews: ממבנה לתהליך מדיד](https://extrimify.com/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/he/json-ld-schema-architecture-for-ai-overviews.md)
 - [SEO רב-לשוני ו-GEO: איך לבנות צמיחה B2B בשווקים בינלאומיים](https://extrimify.com/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/he/trilingual-seo-and-geo-architecture-for-global-b2b.md)
 - [איך למדוד לידים ו-ROI מחיפוש AI ותוצאות ללא הקלקה](https://extrimify.com/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/he/measuring-ai-referrers-and-zero-click-search-roi.md)
+- [איך מסנכרנים שיווק ומכירות סביב pipeline מוסמך ויעדי הכנסות](https://extrimify.com/blog/aligning-sales-and-marketing-around-qualified-pipeline) — [Markdown playbook](./playbooks/he/aligning-sales-and-marketing-around-qualified-pipeline.md)
 
 ## English (EN)
 
@@ -56,6 +57,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [JSON-LD Schema and FAQ Architecture for Google AI Overviews and GEO](https://extrimify.com/en/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/en/json-ld-schema-architecture-for-ai-overviews.md)
 - [Multilingual SEO and GEO Architecture for B2B Growth](https://extrimify.com/en/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/en/trilingual-seo-and-geo-architecture-for-global-b2b.md)
 - [Measuring B2B Leads and ROI from AI Search](https://extrimify.com/en/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/en/measuring-ai-referrers-and-zero-click-search-roi.md)
+- [Align B2B Marketing and Sales Around Qualified Pipeline](https://extrimify.com/en/blog/aligning-sales-and-marketing-around-qualified-pipeline) — [Markdown playbook](./playbooks/en/aligning-sales-and-marketing-around-qualified-pipeline.md)
 
 ## Spanish (ES)
 
@@ -81,6 +83,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Arquitectura JSON-LD y FAQ para Google AI Overviews y GEO](https://extrimify.com/es/blog/json-ld-schema-architecture-for-ai-overviews) — [Markdown playbook](./playbooks/es/json-ld-schema-architecture-for-ai-overviews.md)
 - [Arquitectura SEO y GEO multilingüe para crecer en B2B](https://extrimify.com/es/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/es/trilingual-seo-and-geo-architecture-for-global-b2b.md)
 - [Medir leads B2B y ROI de la búsqueda con IA](https://extrimify.com/es/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/es/measuring-ai-referrers-and-zero-click-search-roi.md)
+- [Cómo alinear marketing y ventas B2B en torno al pipeline calificado](https://extrimify.com/es/blog/aligning-sales-and-marketing-around-qualified-pipeline) — [Markdown playbook](./playbooks/es/aligning-sales-and-marketing-around-qualified-pipeline.md)
 
 ---
 
