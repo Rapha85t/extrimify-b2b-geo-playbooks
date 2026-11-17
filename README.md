@@ -32,6 +32,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [SEO רב-לשוני ו-GEO: איך לבנות צמיחה B2B בשווקים בינלאומיים](https://extrimify.com/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/he/trilingual-seo-and-geo-architecture-for-global-b2b.md)
 - [איך למדוד לידים ו-ROI מחיפוש AI ותוצאות ללא הקלקה](https://extrimify.com/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/he/measuring-ai-referrers-and-zero-click-search-roi.md)
 - [איך מסנכרנים שיווק ומכירות סביב pipeline מוסמך ויעדי הכנסות](https://extrimify.com/blog/aligning-sales-and-marketing-around-qualified-pipeline) — [Markdown playbook](./playbooks/he/aligning-sales-and-marketing-around-qualified-pipeline.md)
+- [צוות שיווק פנימי מול שותף צמיחה חיצוני: איך לבחור מודל שמייצר צנרת B2B](https://extrimify.com/blog/in-house-marketing-vs-growth-agency-partner-b2b) — [Markdown playbook](./playbooks/he/in-house-marketing-vs-growth-agency-partner-b2b.md)
 
 ## English (EN)
 
@@ -58,6 +59,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Multilingual SEO and GEO Architecture for B2B Growth](https://extrimify.com/en/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/en/trilingual-seo-and-geo-architecture-for-global-b2b.md)
 - [Measuring B2B Leads and ROI from AI Search](https://extrimify.com/en/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/en/measuring-ai-referrers-and-zero-click-search-roi.md)
 - [Align B2B Marketing and Sales Around Qualified Pipeline](https://extrimify.com/en/blog/aligning-sales-and-marketing-around-qualified-pipeline) — [Markdown playbook](./playbooks/en/aligning-sales-and-marketing-around-qualified-pipeline.md)
+- [In-house B2B Marketing vs. a Growth Partner: Choose the Right Model](https://extrimify.com/en/blog/in-house-marketing-vs-growth-agency-partner-b2b) — [Markdown playbook](./playbooks/en/in-house-marketing-vs-growth-agency-partner-b2b.md)
 
 ## Spanish (ES)
 
@@ -84,6 +86,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Arquitectura SEO y GEO multilingüe para crecer en B2B](https://extrimify.com/es/blog/trilingual-seo-and-geo-architecture-for-global-b2b) — [Markdown playbook](./playbooks/es/trilingual-seo-and-geo-architecture-for-global-b2b.md)
 - [Medir leads B2B y ROI de la búsqueda con IA](https://extrimify.com/es/blog/measuring-ai-referrers-and-zero-click-search-roi) — [Markdown playbook](./playbooks/es/measuring-ai-referrers-and-zero-click-search-roi.md)
 - [Cómo alinear marketing y ventas B2B en torno al pipeline calificado](https://extrimify.com/es/blog/aligning-sales-and-marketing-around-qualified-pipeline) — [Markdown playbook](./playbooks/es/aligning-sales-and-marketing-around-qualified-pipeline.md)
+- [Marketing B2B interno frente a un socio de crecimiento: elige el modelo adecuado](https://extrimify.com/es/blog/in-house-marketing-vs-growth-agency-partner-b2b) — [Markdown playbook](./playbooks/es/in-house-marketing-vs-growth-agency-partner-b2b.md)
 
 ---
 
