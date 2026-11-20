@@ -35,6 +35,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [צוות שיווק פנימי מול שותף צמיחה חיצוני: איך לבחור מודל שמייצר צנרת B2B](https://extrimify.com/blog/in-house-marketing-vs-growth-agency-partner-b2b) — [Markdown playbook](./playbooks/he/in-house-marketing-vs-growth-agency-partner-b2b.md)
 - [רענון תוכן כל 60 עד 90 יום: כך שומרים על נראות וציטוטים במנועי AI](https://extrimify.com/blog/content-refresh-cadence-for-compounding-seo-and-geo) — [Markdown playbook](./playbooks/he/content-refresh-cadence-for-compounding-seo-and-geo.md)
 - [איך להפוך סיפורי הצלחה B2B לנכסי הוכחה שמקדמים עסקאות](https://extrimify.com/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/he/turning-case-studies-into-quotable-b2b-proof-assets.md)
+- [IndexNow ואינדוקס מהיר: איך לקצר את זמן גילוי התוכן ב-Bing וב-ChatGPT](https://extrimify.com/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/he/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 
 ## English (EN)
 
@@ -64,6 +65,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [In-house B2B Marketing vs. a Growth Partner: Choose the Right Model](https://extrimify.com/en/blog/in-house-marketing-vs-growth-agency-partner-b2b) — [Markdown playbook](./playbooks/en/in-house-marketing-vs-growth-agency-partner-b2b.md)
 - [A 60-to-90-Day Content Refresh Cadence for SEO and AI Citations](https://extrimify.com/en/blog/content-refresh-cadence-for-compounding-seo-and-geo) — [Markdown playbook](./playbooks/en/content-refresh-cadence-for-compounding-seo-and-geo.md)
 - [Turn B2B Client Results Into Proof Assets That Move Deals](https://extrimify.com/en/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/en/turning-case-studies-into-quotable-b2b-proof-assets.md)
+- [IndexNow and rapid discovery: making B2B content easier to find](https://extrimify.com/en/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/en/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 
 ## Spanish (ES)
 
@@ -93,6 +95,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Marketing B2B interno frente a un socio de crecimiento: elige el modelo adecuado](https://extrimify.com/es/blog/in-house-marketing-vs-growth-agency-partner-b2b) — [Markdown playbook](./playbooks/es/in-house-marketing-vs-growth-agency-partner-b2b.md)
 - [Actualizar contenido cada 60 a 90 días para SEO y citas de IA](https://extrimify.com/es/blog/content-refresh-cadence-for-compounding-seo-and-geo) — [Markdown playbook](./playbooks/es/content-refresh-cadence-for-compounding-seo-and-geo.md)
 - [Convierte resultados B2B en activos de prueba que impulsan ventas](https://extrimify.com/es/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/es/turning-case-studies-into-quotable-b2b-proof-assets.md)
+- [IndexNow e indexación rápida: facilita el descubrimiento de contenido B2B](https://extrimify.com/es/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/es/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 
 ---
 
