@@ -36,6 +36,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [רענון תוכן כל 60 עד 90 יום: כך שומרים על נראות וציטוטים במנועי AI](https://extrimify.com/blog/content-refresh-cadence-for-compounding-seo-and-geo) — [Markdown playbook](./playbooks/he/content-refresh-cadence-for-compounding-seo-and-geo.md)
 - [איך להפוך סיפורי הצלחה B2B לנכסי הוכחה שמקדמים עסקאות](https://extrimify.com/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/he/turning-case-studies-into-quotable-b2b-proof-assets.md)
 - [IndexNow ואינדוקס מהיר: איך לקצר את זמן גילוי התוכן ב-Bing וב-ChatGPT](https://extrimify.com/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/he/indexnow-and-instant-indexing-for-b2b-content-engines.md)
+- [משפך פרופיל LinkedIn B2B למנכ״לים ומייסדים: מתכנון לפייפליין](https://extrimify.com/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/he/b2b-linkedin-profile-funnel-for-ceos.md)
 
 ## English (EN)
 
@@ -66,6 +67,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [A 60-to-90-Day Content Refresh Cadence for SEO and AI Citations](https://extrimify.com/en/blog/content-refresh-cadence-for-compounding-seo-and-geo) — [Markdown playbook](./playbooks/en/content-refresh-cadence-for-compounding-seo-and-geo.md)
 - [Turn B2B Client Results Into Proof Assets That Move Deals](https://extrimify.com/en/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/en/turning-case-studies-into-quotable-b2b-proof-assets.md)
 - [IndexNow and rapid discovery: making B2B content easier to find](https://extrimify.com/en/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/en/indexnow-and-instant-indexing-for-b2b-content-engines.md)
+- [B2B LinkedIn Profile Funnel for CEOs and Founders](https://extrimify.com/en/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/en/b2b-linkedin-profile-funnel-for-ceos.md)
 
 ## Spanish (ES)
 
@@ -96,6 +98,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Actualizar contenido cada 60 a 90 días para SEO y citas de IA](https://extrimify.com/es/blog/content-refresh-cadence-for-compounding-seo-and-geo) — [Markdown playbook](./playbooks/es/content-refresh-cadence-for-compounding-seo-and-geo.md)
 - [Convierte resultados B2B en activos de prueba que impulsan ventas](https://extrimify.com/es/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/es/turning-case-studies-into-quotable-b2b-proof-assets.md)
 - [IndexNow e indexación rápida: facilita el descubrimiento de contenido B2B](https://extrimify.com/es/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/es/indexnow-and-instant-indexing-for-b2b-content-engines.md)
+- [Embudo de perfil de LinkedIn B2B para CEOs y fundadores](https://extrimify.com/es/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/es/b2b-linkedin-profile-funnel-for-ceos.md)
 
 ---
 
