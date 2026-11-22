@@ -37,6 +37,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [איך להפוך סיפורי הצלחה B2B לנכסי הוכחה שמקדמים עסקאות](https://extrimify.com/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/he/turning-case-studies-into-quotable-b2b-proof-assets.md)
 - [IndexNow ואינדוקס מהיר: איך לקצר את זמן גילוי התוכן ב-Bing וב-ChatGPT](https://extrimify.com/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/he/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 - [משפך פרופיל LinkedIn B2B למנכ״לים ומייסדים: מתכנון לפייפליין](https://extrimify.com/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/he/b2b-linkedin-profile-funnel-for-ceos.md)
+- [חימום לידים B2B רב-ערוצי: להפוך LinkedIn ואימייל לפייפליין מדיד](https://extrimify.com/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/he/multi-channel-b2b-warming-linkedin-and-email.md)
 
 ## English (EN)
 
@@ -68,6 +69,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Turn B2B Client Results Into Proof Assets That Move Deals](https://extrimify.com/en/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/en/turning-case-studies-into-quotable-b2b-proof-assets.md)
 - [IndexNow and rapid discovery: making B2B content easier to find](https://extrimify.com/en/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/en/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 - [B2B LinkedIn Profile Funnel for CEOs and Founders](https://extrimify.com/en/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/en/b2b-linkedin-profile-funnel-for-ceos.md)
+- [Multi-Channel B2B Lead Warming: Make LinkedIn and Email Work as One](https://extrimify.com/en/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/en/multi-channel-b2b-warming-linkedin-and-email.md)
 
 ## Spanish (ES)
 
@@ -99,6 +101,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Convierte resultados B2B en activos de prueba que impulsan ventas](https://extrimify.com/es/blog/turning-case-studies-into-quotable-b2b-proof-assets) — [Markdown playbook](./playbooks/es/turning-case-studies-into-quotable-b2b-proof-assets.md)
 - [IndexNow e indexación rápida: facilita el descubrimiento de contenido B2B](https://extrimify.com/es/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/es/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 - [Embudo de perfil de LinkedIn B2B para CEOs y fundadores](https://extrimify.com/es/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/es/b2b-linkedin-profile-funnel-for-ceos.md)
+- [Calentamiento multicanal de leads B2B: LinkedIn y email para crear pipeline](https://extrimify.com/es/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/es/multi-channel-b2b-warming-linkedin-and-email.md)
 
 ---
 
