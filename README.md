@@ -38,6 +38,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [IndexNow ואינדוקס מהיר: איך לקצר את זמן גילוי התוכן ב-Bing וב-ChatGPT](https://extrimify.com/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/he/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 - [משפך פרופיל LinkedIn B2B למנכ״לים ומייסדים: מתכנון לפייפליין](https://extrimify.com/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/he/b2b-linkedin-profile-funnel-for-ceos.md)
 - [חימום לידים B2B רב-ערוצי: להפוך LinkedIn ואימייל לפייפליין מדיד](https://extrimify.com/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/he/multi-channel-b2b-warming-linkedin-and-email.md)
+- [איך לאתר נזילות במשפך מכירות B2B לפני שמגדילים תקציב](https://extrimify.com/blog/how-to-audit-b2b-sales-pipeline-leaks) — [Markdown playbook](./playbooks/he/how-to-audit-b2b-sales-pipeline-leaks.md)
 
 ## English (EN)
 
@@ -70,6 +71,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [IndexNow and rapid discovery: making B2B content easier to find](https://extrimify.com/en/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/en/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 - [B2B LinkedIn Profile Funnel for CEOs and Founders](https://extrimify.com/en/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/en/b2b-linkedin-profile-funnel-for-ceos.md)
 - [Multi-Channel B2B Lead Warming: Make LinkedIn and Email Work as One](https://extrimify.com/en/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/en/multi-channel-b2b-warming-linkedin-and-email.md)
+- [How to Audit B2B Sales Pipeline Leaks Before Scaling Spend](https://extrimify.com/en/blog/how-to-audit-b2b-sales-pipeline-leaks) — [Markdown playbook](./playbooks/en/how-to-audit-b2b-sales-pipeline-leaks.md)
 
 ## Spanish (ES)
 
@@ -102,6 +104,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [IndexNow e indexación rápida: facilita el descubrimiento de contenido B2B](https://extrimify.com/es/blog/indexnow-and-instant-indexing-for-b2b-content-engines) — [Markdown playbook](./playbooks/es/indexnow-and-instant-indexing-for-b2b-content-engines.md)
 - [Embudo de perfil de LinkedIn B2B para CEOs y fundadores](https://extrimify.com/es/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/es/b2b-linkedin-profile-funnel-for-ceos.md)
 - [Calentamiento multicanal de leads B2B: LinkedIn y email para crear pipeline](https://extrimify.com/es/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/es/multi-channel-b2b-warming-linkedin-and-email.md)
+- [Cómo auditar fugas en el pipeline B2B antes de escalar la inversión](https://extrimify.com/es/blog/how-to-audit-b2b-sales-pipeline-leaks) — [Markdown playbook](./playbooks/es/how-to-audit-b2b-sales-pipeline-leaks.md)
 
 ---
 
