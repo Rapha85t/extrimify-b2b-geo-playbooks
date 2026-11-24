@@ -39,6 +39,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [משפך פרופיל LinkedIn B2B למנכ״לים ומייסדים: מתכנון לפייפליין](https://extrimify.com/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/he/b2b-linkedin-profile-funnel-for-ceos.md)
 - [חימום לידים B2B רב-ערוצי: להפוך LinkedIn ואימייל לפייפליין מדיד](https://extrimify.com/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/he/multi-channel-b2b-warming-linkedin-and-email.md)
 - [איך לאתר נזילות במשפך מכירות B2B לפני שמגדילים תקציב](https://extrimify.com/blog/how-to-audit-b2b-sales-pipeline-leaks) — [Markdown playbook](./playbooks/he/how-to-audit-b2b-sales-pipeline-leaks.md)
+- [ארכיטקטורת הצעת ערך B2B לארגוני Enterprise: מהמסר ל-pipeline](https://extrimify.com/blog/b2b-value-proposition-architecture-for-enterprise) — [Markdown playbook](./playbooks/he/b2b-value-proposition-architecture-for-enterprise.md)
 
 ## English (EN)
 
@@ -72,6 +73,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [B2B LinkedIn Profile Funnel for CEOs and Founders](https://extrimify.com/en/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/en/b2b-linkedin-profile-funnel-for-ceos.md)
 - [Multi-Channel B2B Lead Warming: Make LinkedIn and Email Work as One](https://extrimify.com/en/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/en/multi-channel-b2b-warming-linkedin-and-email.md)
 - [How to Audit B2B Sales Pipeline Leaks Before Scaling Spend](https://extrimify.com/en/blog/how-to-audit-b2b-sales-pipeline-leaks) — [Markdown playbook](./playbooks/en/how-to-audit-b2b-sales-pipeline-leaks.md)
+- [B2B Value Proposition Architecture for Enterprise Buying Committees](https://extrimify.com/en/blog/b2b-value-proposition-architecture-for-enterprise) — [Markdown playbook](./playbooks/en/b2b-value-proposition-architecture-for-enterprise.md)
 
 ## Spanish (ES)
 
@@ -105,6 +107,7 @@ Open knowledge base mirroring the trilingual B2B growth playbooks published on [
 - [Embudo de perfil de LinkedIn B2B para CEOs y fundadores](https://extrimify.com/es/blog/b2b-linkedin-profile-funnel-for-ceos) — [Markdown playbook](./playbooks/es/b2b-linkedin-profile-funnel-for-ceos.md)
 - [Calentamiento multicanal de leads B2B: LinkedIn y email para crear pipeline](https://extrimify.com/es/blog/multi-channel-b2b-warming-linkedin-and-email) — [Markdown playbook](./playbooks/es/multi-channel-b2b-warming-linkedin-and-email.md)
 - [Cómo auditar fugas en el pipeline B2B antes de escalar la inversión](https://extrimify.com/es/blog/how-to-audit-b2b-sales-pipeline-leaks) — [Markdown playbook](./playbooks/es/how-to-audit-b2b-sales-pipeline-leaks.md)
+- [Arquitectura de propuesta de valor B2B para comités enterprise](https://extrimify.com/es/blog/b2b-value-proposition-architecture-for-enterprise) — [Markdown playbook](./playbooks/es/b2b-value-proposition-architecture-for-enterprise.md)
 
 ---
 
